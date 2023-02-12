@@ -53,3 +53,4 @@ for i in xrange(thread_count):
       sys.exit(0)
 
 while 1:
+  pass
